@@ -1,0 +1,2 @@
+The choropleth map is made using D3.js library with hover on effect and zooming and panning.
+The color legend is also provided with the map and changes with the properties being displayed on the map. Properties on the map can be changed with a simple change in value. Image Preview is also attached.
